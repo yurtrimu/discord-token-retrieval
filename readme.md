@@ -23,7 +23,6 @@ int main()
 ```
 
 ## Example.png
-
 ![alt text](https://github.com/yurtrimu/discord-token-retrieval/blob/main/Example.png?raw=true)
 
 ## Operating System
