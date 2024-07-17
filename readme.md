@@ -24,6 +24,7 @@ int main()
 
 ## Example.png
 ![alt text](https://github.com/yurtrimu/discord-token-retrieval/blob/main/Example.png?raw=true)
+These tokens are fake, don't waste your time.
 
 ## Operating System
 - **Below Windows 7 - 🟦 Untested**
