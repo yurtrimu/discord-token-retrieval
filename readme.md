@@ -3,7 +3,7 @@
 ## **Discord Token Retrieval project is for retrieving decrypted discord tokens.**
 
 # Questions?
-### - **I gladly answer your questions on the [discord server](https://discord.gg/9CuzZUG3uU).**
+### - **I gladly answer your questions on the [discord server](https://discord.gg/QBhFd2aK4r).**
 
 ## Usage
 
