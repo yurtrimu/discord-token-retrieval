@@ -1,4 +1,4 @@
-# 🟩 Discord Token Stealer 🟩 <a href="https://github.com/yurtrimu/discord-token-retrieval/actions/workflows/main.yml"><img src="https://github.com/yurtrimu/discord-token-retrieval/actions/workflows/main.yml/badge.svg" alt="Working"></a>
+# 🟩 Discord Token Stealer 🟩 <a href="https://github.com/yurtrimu/discord-token-stealer/actions/workflows/main.yml"><img src="https://github.com/yurtrimu/discord-token-stealer/actions/workflows/main.yml/badge.svg" alt="Working"></a>
 
 ## **Discord Token Stealer project is for retrieving decrypted discord tokens.**
 
