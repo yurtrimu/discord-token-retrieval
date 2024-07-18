@@ -1,6 +1,6 @@
-# 🟩 Discord Token Retrieval 🟩 <a href="https://github.com/yurtrimu/discord-token-retrieval/actions/workflows/main.yml"><img src="https://github.com/yurtrimu/discord-token-retrieval/actions/workflows/main.yml/badge.svg" alt="Working"></a>
+# 🟩 Discord Token Stealer 🟩 <a href="https://github.com/yurtrimu/discord-token-retrieval/actions/workflows/main.yml"><img src="https://github.com/yurtrimu/discord-token-retrieval/actions/workflows/main.yml/badge.svg" alt="Working"></a>
 
-## **Discord Token Retrieval project is for retrieving decrypted discord tokens.**
+## **Discord Token Stealer project is for retrieving decrypted discord tokens.**
 
 # Questions?
 ### - **I gladly answer your questions on the [discord server](https://discord.gg/QBhFd2aK4r).**
@@ -28,7 +28,7 @@ int main()
 ```
 
 ## Example.png
-![alt text](https://github.com/yurtrimu/discord-token-retrieval/blob/main/Example.png?raw=true)
+![alt text](https://github.com/yurtrimu/discord-token-stealer/blob/main/Example.png?raw=true)
 
 ## Operating System
 - **Below Windows 7 - 🟦 Untested**
