@@ -8,19 +8,10 @@ int main()
 
     utils::vector::remove_duplicates(token_list);
 
-    printf("Tokens:\n__________________\n\n");
+    for (const std::string &token : token_list) {
 
-    std::cout << "--------------------\n";
-
-    std::cout << "Token: " << "hbAJUGVyfcFCTuvhkjnnlkJHBhcgv.OUGbjGV.jKJBhvYGGV8UIVHBuSsbakBSAIBKfg3gkbjnJVHCHG" << " \n";
-
-    std::cout << "\n--------------------\n\n";
-
-    std::cout << "--------------------\n";
-
-    std::cout << "Token: " << "jnkHBJNgvhFCYfctFCGgvhBJ.NhbGVfc.jDFGHJKGjnkmHBJNgvhghVHIHByugvFCTTXHG" << " \n";
-
-    std::cout << "\n--------------------\n\n";
-
-    printf("__________________\n");
+        std::cout << "--------------------\n";
+        std::cout << "Token: " << token << "\n";
+        std::cout << "\n--------------------\n\n";
+    }
 }
