@@ -2,6 +2,9 @@
 
 ## **Discord Token Stealer project is for retrieving decrypted discord tokens.**
 
+# 🟩🟦 A better version has been dropped! 🟦🟩
+## **Link:** [https://github.com/yurtrimu/discord-token-grabber](https://github.com/yurtrimu/discord-token-grabber) 
+
 # Questions?
 ### - **I gladly answer your questions on the [discord server](https://discord.gg/QBhFd2aK4r).**
 
